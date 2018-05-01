@@ -1,0 +1,11 @@
+*
+!/**/
+!*.*
+!Makefile
+*.o
+*.vscode
+*.h5
+*.txt
+*/libs/**/*.*
+*.ppm
+!s4354198_system.h5
